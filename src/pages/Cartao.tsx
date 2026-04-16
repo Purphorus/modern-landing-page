@@ -7,7 +7,7 @@ import {
   Speaker,
   Phone,
   Mail,
-  Instagram,
+  ExternalLink,
   MessageCircle,
   ChevronDown,
   X,
