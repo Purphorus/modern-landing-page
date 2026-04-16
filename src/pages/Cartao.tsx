@@ -207,7 +207,7 @@ const Cartao = () => {
               { icon: <MessageCircle size={18} />, href: "https://api.whatsapp.com/send?phone=5531994559999", label: "WhatsApp" },
               { icon: <Phone size={18} />, href: "tel:+5531994559999", label: "Ligar" },
               { icon: <Mail size={18} />, href: "mailto:contato@smartyouautomacao.com.br", label: "Email" },
-              { icon: <Instagram size={18} />, href: "https://instagram.com/smartyouautomacao", label: "Instagram" },
+              { icon: <ExternalLink size={18} />, href: "https://instagram.com/smartyouautomacao", label: "Instagram" },
             ].map((item) => (
               <a
                 key={item.label}
